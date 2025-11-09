@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫I’m in 11th grade and I enjoy dealing with technology.<br>🖥️I’m into programming and making games, especially messing around with Minecraft and Unity.<br>😊I’ve learned how to manage GitHub and my projects, which comes in handy.<br>📖I’m always open to learning new things and like improving my projects.<br>I love being creative and use it both in game design and programming.<br>I’m curious and never hesitate to ask questions or try new things.
+🏫I’m in 11th grade and I enjoy dealing with technology.<br>🖥️I’m into programming and making games, especially messing around with Minecraft and Unity.<br>😊I’ve learned how to manage GitHub and my projects, which comes in handy.<br>📖I’m always open to learning new things and like improving my projects.<br>👌I love being creative and use it both in game design and programming.<br>😎I’m curious and never hesitate to ask questions or try new things.
 
 
 ## 🌐 Socials:
